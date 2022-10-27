@@ -5,6 +5,10 @@
 
 ## Solution to QUIZ 017 SL
 
+```.py
+
+```
+
 ![Screen Shot 2022-10-26 at 14 22 10](https://user-images.githubusercontent.com/111819437/197941608-04356079-784f-4f8b-8c1d-5aeeee1476af.png)
 
 ## Flowchart SL
