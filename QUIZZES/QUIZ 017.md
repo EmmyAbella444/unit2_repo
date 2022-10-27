@@ -29,4 +29,4 @@ print(averageLenght(["one", "two"]))
 
 ## Flowchart SL
 
-![Flowchart - QUIZZ 017 (1)](https://user-images.githubusercontent.com/111819437/197941787-76b4a9bd-255a-4280-bbca-5fe4628d5b25.png)
+![Flowchart - QUIZZ 017 (3)](https://user-images.githubusercontent.com/111819437/198322176-9c0729a7-dc5a-47f7-bb43-6fbbd38651dd.png)
