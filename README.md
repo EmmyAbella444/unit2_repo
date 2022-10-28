@@ -2,7 +2,7 @@
 This is the repository of Unit 2!
 
 .Lessons
-.Project
+.Project 
 .Quizzes
 .Tasks
 
