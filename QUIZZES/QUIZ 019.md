@@ -1,5 +1,7 @@
 # QUIZ 019
 
+![Screen Shot 2022-10-30 at 17 05 16](https://user-images.githubusercontent.com/111819437/198868708-2dd546c4-271f-44c9-91ce-a26a624760fe.png)
+
 ## Code
 ```.py
 def get_l3t33r(msg):
