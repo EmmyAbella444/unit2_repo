@@ -33,3 +33,7 @@ print(get_l3t33r("Remember the Figure Caption"))
 ## Flowchart
 ![Flowchart - QUIZZ 017 (5)](https://user-images.githubusercontent.com/111819437/198500754-2e19217c-2e79-42ab-a39f-33183ddba22c.png)
 
+## Boolean circuit for:
+AB + not(B+C) + B(notC notA)
+
+
