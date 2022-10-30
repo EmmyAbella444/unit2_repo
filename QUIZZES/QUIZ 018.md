@@ -1,4 +1,6 @@
 # QUIZ 018
+![Screen Shot 2022-10-30 at 16 46 38](https://user-images.githubusercontent.com/111819437/198867945-cb497537-5092-42cd-b5b4-97c55c7b57cc.png)
+
 
 ## CODE 
 
