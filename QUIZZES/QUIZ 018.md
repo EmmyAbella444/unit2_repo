@@ -29,4 +29,6 @@ print(f"{number_of_matches(12345,123)} matches")
 
 ![Flowchart - QUIZZ 017 (2)](https://user-images.githubusercontent.com/111819437/198321636-93ae2b93-9605-4d30-b085-d5f54be3346c.png)
 
+## Truth Table out=ABC+(A+B+C)+not(notA notB notC)
+
 
