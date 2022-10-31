@@ -31,7 +31,8 @@ print(get_l3t33r("Remember the Figure Caption"))
 ![Screen Shot 2022-10-28 at 11 58 03](https://user-images.githubusercontent.com/111819437/198485354-76ec339e-d7dc-42e4-80ae-16f727e48b4c.png)
 
 ## Flowchart
-![Flowchart - QUIZZ 017 (5)](https://user-images.githubusercontent.com/111819437/198500754-2e19217c-2e79-42ab-a39f-33183ddba22c.png)
+![Flowchart - QUIZZ 017 (6)](https://user-images.githubusercontent.com/111819437/198920573-09ac0004-5205-4350-a95a-d279f1560111.png)
+
 
 ## Boolean circuit for:
 AB + not(B+C) + B(notC notA)
