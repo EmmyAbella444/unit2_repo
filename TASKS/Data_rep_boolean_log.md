@@ -22,6 +22,13 @@ Write the boolean equation for the circuit shown
 |   ![Screen Shot 2022-11-01 at 0 11 10](https://user-images.githubusercontent.com/111819437/199042592-2f489722-a64c-49f3-ac22-7e5dea96a48a.png) 	| |   ![Screen Shot 2022-11-01 at 0 11 25](https://user-images.githubusercontent.com/111819437/199043166-333cd2e6-99a0-4529-9b2b-81090a37c4b9.png)        | 
    
 
+## Truth table
+Write the truth table for the equations below
+
+## Data Conversion
+Information can be represented in different systems, for example the number 10  in decimal (system base 10) can be represented in binary (system base 2) as 1010 or 12 in base 8. 
+
+It is critical for you to understand how to represent information in different ways, this will help you visualize how the computer processes data.
 
 
   
