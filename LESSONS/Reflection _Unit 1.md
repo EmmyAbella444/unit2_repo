@@ -1,8 +1,5 @@
 # -Unit 1 Reflection-
 
-### What worked well during unit 1?
-
-
 ### What did not worked well ?
 
 Time manegement. Sometimes I need more time to do my assignments in other subjects because of language barriers and because of 
