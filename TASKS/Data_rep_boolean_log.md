@@ -13,7 +13,14 @@ Draw the circuit for the boolean equations provided
 |  not(ACB)+not((A+C)B) |![Cópia de Cópia de Cópia de TASK](https://user-images.githubusercontent.com/111819437/199036622-65925df6-586a-4161-895f-9baf71dca03d.png)
 | not(b1b2b3)+not(b1+b3)(b1+b2)                 	| ![QUIZ 019 (1)](https://user-images.githubusercontent.com/111819437/199040567-3ae6da06-cfdd-46ad-acbb-a751edbb7b8d.png)
         	
+## Get the Equation
+Write the boolean equation for the circuit shown
 
+| Circuit 	| Boolean Equation 	|
+|---------	|------------------	|
+|   ![Screen Shot 2022-11-01 at 0 09 58](https://user-images.githubusercontent.com/111819437/199042283-d0687acd-66eb-4868-934e-83b179516fde.png)	|
+|   ![Screen Shot 2022-11-01 at 0 11 10](https://user-images.githubusercontent.com/111819437/199042592-2f489722-a64c-49f3-ac22-7e5dea96a48a.png) 	| |   ![Screen Shot 2022-11-01 at 0 11 25](https://user-images.githubusercontent.com/111819437/199043166-333cd2e6-99a0-4529-9b2b-81090a37c4b9.png)        | 
+   
 
 
 
