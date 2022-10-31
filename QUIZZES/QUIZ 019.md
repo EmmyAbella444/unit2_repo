@@ -37,4 +37,6 @@ print(get_l3t33r("Remember the Figure Caption"))
 ## Boolean circuit for:
 AB + not(B+C) + B(notC notA)
 
+![QUIZ 019](https://user-images.githubusercontent.com/111819437/198970322-a90d50ba-d761-4ff8-af56-c06b8d19bb4e.png)
+
 
