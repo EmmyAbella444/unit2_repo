@@ -17,6 +17,8 @@ def get_Truth():
 
 print(get_Truth())
 ```
-## Evidence ![Screen Shot 2022-11-01 at 9 13 35](https://user-images.githubusercontent.com/111819437/199132458-8d5e828e-bea2-4c50-bf8a-95a52b0b6d4c.png)
+## Evidence 
+
+![Screen Shot 2022-11-01 at 9 13 35](https://user-images.githubusercontent.com/111819437/199132458-8d5e828e-bea2-4c50-bf8a-95a52b0b6d4c.png)
 
 ## Truth Table and Circuit for Light = S1S2 + (S2+S3(notS1))S1
