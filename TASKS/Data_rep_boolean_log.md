@@ -16,10 +16,10 @@ Draw the circuit for the boolean equations provided
 ## Get the Equation
 Write the boolean equation for the circuit shown
 
-| Circuit 	| Boolean Equation 	|
-|---------	|------------------	|
-|   ![Screen Shot 2022-11-01 at 0 09 58](https://user-images.githubusercontent.com/111819437/199042283-d0687acd-66eb-4868-934e-83b179516fde.png)	|
-|   ![Screen Shot 2022-11-01 at 0 11 10](https://user-images.githubusercontent.com/111819437/199042592-2f489722-a64c-49f3-ac22-7e5dea96a48a.png) 	| |   ![Screen Shot 2022-11-01 at 0 11 25](https://user-images.githubusercontent.com/111819437/199043166-333cd2e6-99a0-4529-9b2b-81090a37c4b9.png)        | 
+![Screen Shot 2022-11-02 at 7 58 59](https://user-images.githubusercontent.com/111819437/199357822-17e103ba-4ac0-4a51-9dc6-999a36f20d5e.png)
+
+![Screen Shot 2022-11-02 at 8 00 48](https://user-images.githubusercontent.com/111819437/199358282-aa6774b9-e83c-4b0e-a417-3603afd763fc.png)
+
    
 
 ## Truth table
