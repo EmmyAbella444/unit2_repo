@@ -25,7 +25,7 @@ Draw the circuit for the boolean equations provided
 ## Truth table
 ### Write the truth table for the equations below
 
-X = A and B
+### X = A and B
 
 | A 	| B 	| X=AB 	|
 |---	|---	|------	|
@@ -34,7 +34,7 @@ X = A and B
 | 1 	| 0 	| 0    	|
 | 1 	| 1 	| 1    	|
 
-Out = input1 or input2
+### Out = input1 or input2
 
 | Input 1 	| Input 2 	| Input 1 or Input 2  	|
 |---------	|---------	|---------------------	|
@@ -43,7 +43,7 @@ Out = input1 or input2
 | 0       	| 1       	| 1                   	|
 | 1       	| 1       	| 1                   	|
 
-Light = not(S1) + not(S2 + S3) + S1S2not(S3)
+### Light = not(S1) + not(S2 + S3) + S1S2not(S3)
 
 | S3 	| S2 	| S1 	| not(S1) 	| S2+S3 	| not(S2+S3) 	| S1S2 	| not(S3) 	| S1S2not(S3) 	| (not(S1))+(not(S2+S3)) 	| (not(S1))+(not(S2+S3))+(not(S2+S3)) 	|
 |----	|----	|----	|---------	|-------	|------------	|------	|---------	|-------------	|------------------------	|-------------------------------------	|
@@ -55,6 +55,10 @@ Light = not(S1) + not(S2 + S3) + S1S2not(S3)
 | 1  	| 0  	| 1  	| 0       	| 1     	| 0          	| 0    	| 0       	| 0           	| 0                      	| 0                                   	|
 | 1  	| 1  	| 0  	| 1       	| 1     	| 0          	| 0    	| 0       	| 0           	| 1                      	| 1                                   	|
 | 1  	| 1  	| 1  	| 0       	| 1     	| 0          	| 1    	| 0       	| 0           	| 0                      	| 0                                   	|
+
+### Login = not(P1P2P3) + not((P3not(P2P1))) + not(P1 + P3)
+
+
 
 ## Data Conversion
 Information can be represented in different systems, for example the number 10  in decimal (system base 10) can be represented in binary (system base 2) as 1010 or 12 in base 8. 
