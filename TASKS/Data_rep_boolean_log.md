@@ -20,7 +20,8 @@ Write the boolean equation for the circuit shown
 
 ![Screen Shot 2022-11-02 at 8 00 48](https://user-images.githubusercontent.com/111819437/199358282-aa6774b9-e83c-4b0e-a417-3603afd763fc.png)
 
-   
+![Screen Shot 2022-11-03 at 10 51 43](https://user-images.githubusercontent.com/111819437/199634124-ec8cc2c4-9ce1-4ab2-8356-fab1ebfc4d12.png)
+
 
 ## Truth table
 Write the truth table for the equations below
