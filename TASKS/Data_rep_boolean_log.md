@@ -14,9 +14,8 @@ Draw the circuit for the boolean equations provided
 | not(b1b2b3)+not(b1+b3)(b1+b2)                 	| ![QUIZ 019 (1)](https://user-images.githubusercontent.com/111819437/199040567-3ae6da06-cfdd-46ad-acbb-a751edbb7b8d.png)
         	
 ## Get the Equation
-Write the boolean equation for the circuit shown
-
-![Screen Shot 2022-11-02 at 7 58 59](https://user-images.githubusercontent.com/111819437/199357822-17e103ba-4ac0-4a51-9dc6-999a36f20d5e.png)
+### Write the boolean equation for the circuit shown
+![Screen Shot 2022-11-03 at 10 55 14](https://user-images.githubusercontent.com/111819437/199634427-61bd4c69-3fca-49c7-98b2-4c5320052670.png)
 
 ![Screen Shot 2022-11-02 at 8 00 48](https://user-images.githubusercontent.com/111819437/199358282-aa6774b9-e83c-4b0e-a417-3603afd763fc.png)
 
