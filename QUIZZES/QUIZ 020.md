@@ -1,4 +1,5 @@
 # QUIZ 020
+![Screen Shot 2022-11-03 at 10 58 43](https://user-images.githubusercontent.com/111819437/199634678-556e611e-7d58-4b48-843f-ccea9e677b25.png)
 
 ## CODE QUIZ 020
 ```.py
