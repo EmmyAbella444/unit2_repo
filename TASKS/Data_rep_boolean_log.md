@@ -23,7 +23,26 @@ Draw the circuit for the boolean equations provided
 
 
 ## Truth table
-Write the truth table for the equations below
+### Write the truth table for the equations below
+
+X = A and B
+
+| A 	| B 	| X=AB 	|
+|---	|---	|------	|
+| 0 	| 0 	| 0    	|
+| 0 	| 1 	| 0    	|
+| 1 	| 0 	| 0    	|
+| 1 	| 1 	| 1    	|
+
+Out = input1 or input2
+
+| Input 1 	| Input 2 	| Input 1 or Input 2  	|
+|---------	|---------	|---------------------	|
+| 0       	| 0       	| 0                   	|
+| 1       	| 0       	| 1                   	|
+| 0       	| 1       	| 1                   	|
+| 1       	| 1       	| 1                   	|
+
 
 ## Data Conversion
 Information can be represented in different systems, for example the number 10  in decimal (system base 10) can be represented in binary (system base 2) as 1010 or 12 in base 8. 
