@@ -43,6 +43,18 @@ Out = input1 or input2
 | 0       	| 1       	| 1                   	|
 | 1       	| 1       	| 1                   	|
 
+Light = not(S1) + not(S2 + S3) + S1S2not(S3)
+
+| S3 	| S2 	| S1 	| not(S1) 	| S2+S3 	| not(S2+S3) 	| S1S2 	| not(S3) 	| S1S2not(S3) 	| (not(S1))+(not(S2+S3)) 	| (not(S1))+(not(S2+S3))+(not(S2+S3)) 	|
+|----	|----	|----	|---------	|-------	|------------	|------	|---------	|-------------	|------------------------	|-------------------------------------	|
+| 0  	| 0  	| 0  	| 1       	| 0     	| 1          	| 0    	| 1       	| 0           	| 1                      	| 1                                   	|
+| 0  	| 0  	| 1  	| 0       	| 0     	| 1          	| 0    	| 1       	| 0           	| 1                      	| 1                                   	|
+| 0  	| 1  	| 0  	| 1       	| 1     	| 0          	| 0    	| 1       	| 0           	| 1                      	| 1                                   	|
+| 0  	| 1  	| 1  	| 0       	| 1     	| 0          	| 1    	| 1       	| 1           	| 0                      	| 1                                   	|
+| 1  	| 0  	| 0  	| 1       	| 1     	| 0          	| 0    	| 0       	| 0           	| 1                      	| 1                                   	|
+| 1  	| 0  	| 1  	| 0       	| 1     	| 0          	| 0    	| 0       	| 0           	| 0                      	| 0                                   	|
+| 1  	| 1  	| 0  	| 1       	| 1     	| 0          	| 0    	| 0       	| 0           	| 1                      	| 1                                   	|
+| 1  	| 1  	| 1  	| 0       	| 1     	| 0          	| 1    	| 0       	| 0           	| 0                      	| 0                                   	|
 
 ## Data Conversion
 Information can be represented in different systems, for example the number 10  in decimal (system base 10) can be represented in binary (system base 2) as 1010 or 12 in base 8. 
