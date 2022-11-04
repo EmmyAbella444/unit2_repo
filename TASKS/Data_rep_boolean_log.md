@@ -76,5 +76,6 @@ It is critical for you to understand how to represent information in different w
 
 ![Screen Shot 2022-11-04 at 16 34 45](https://user-images.githubusercontent.com/111819437/199918065-9120535b-0bdc-48f4-9139-54474b6f03f2.png)
 ![Screen Shot 2022-11-04 at 16 34 45](https://user-images.githubusercontent.com/111819437/199919597-c285d6c3-5124-4605-a1f0-30243ada8cb1.png)
+![Screen Shot 2022-11-04 at 17 05 38](https://user-images.githubusercontent.com/111819437/199923437-cacd974c-9ef9-4f8a-93f6-500d4e3b84a7.png)
 
    
