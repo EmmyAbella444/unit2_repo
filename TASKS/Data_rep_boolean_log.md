@@ -74,5 +74,6 @@ Information can be represented in different systems, for example the number 10  
 
 It is critical for you to understand how to represent information in different ways, this will help you visualize how the computer processes data.
 
+![Screen Shot 2022-11-04 at 16 34 45](https://user-images.githubusercontent.com/111819437/199918065-9120535b-0bdc-48f4-9139-54474b6f03f2.png)
 
    
