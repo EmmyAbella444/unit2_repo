@@ -23,3 +23,4 @@ print(get_Truth())
 
 
 ## Flowchart
+![Flowchart - QUIZZ 017 (9)](https://user-images.githubusercontent.com/111819437/200097837-82c9751e-6862-4130-b8d0-68c7015f22b3.png)
