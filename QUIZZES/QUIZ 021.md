@@ -1,4 +1,8 @@
 # QUIZ 021
+
+![Screen Shot 2022-11-09 at 14 23 27](https://user-images.githubusercontent.com/111819437/200745804-bfb1c236-a99f-4da6-bc34-c1e07e222172.png)
+
+
 ## Code
 ```.py
 def get_Truth():
