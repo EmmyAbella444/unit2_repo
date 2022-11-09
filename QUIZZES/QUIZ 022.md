@@ -1,4 +1,6 @@
 # QUIZ 022
+![Screen Shot 2022-11-09 at 14 23 27](https://user-images.githubusercontent.com/111819437/200746131-3f5e76c6-3e95-427e-929b-af64d36432cb.png)
+
 
 ## Code to quiz 022
 ```.py
@@ -21,3 +23,4 @@ print(sample)
 
 ## Flowdiagram
 
+## Proof that A (A + B) = A 
