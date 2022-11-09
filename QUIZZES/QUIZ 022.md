@@ -1,5 +1,6 @@
 # QUIZ 022
-![Screen Shot 2022-11-09 at 14 23 27](https://user-images.githubusercontent.com/111819437/200746131-3f5e76c6-3e95-427e-929b-af64d36432cb.png)
+![Screen Shot 2022-11-09 at 15 53 18](https://user-images.githubusercontent.com/111819437/200759744-228b05e9-9072-42f0-b69c-3bb887e59d75.png)
+
 
 
 ## Code to quiz 022
