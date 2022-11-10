@@ -24,4 +24,6 @@ print(sample)
 
 ## Flowdiagram
 
+![Flowchart - QUIZZ 022](https://user-images.githubusercontent.com/111819437/200974778-449c577a-4a40-4532-b563-9b8abadfdb06.png)
+
 ## Proof that A (A + B) = A 
