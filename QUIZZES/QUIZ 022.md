@@ -27,3 +27,11 @@ print(sample)
 ![Flowchart - QUIZZ 022](https://user-images.githubusercontent.com/111819437/200974778-449c577a-4a40-4532-b563-9b8abadfdb06.png)
 
 ## Proof that A (A + B) = A 
+
+| A 	| B 	| A + B 	| A(A + B) 	|
+|---	|---	|-------	|----------	|
+| 0 	| 0 	| 0     	| 0        	|
+| 0 	| 1 	| 1     	| 0        	|
+| 1 	| 0 	| 1     	| 1        	|
+| 1 	| 1 	| 1     	| 1        	|
+
