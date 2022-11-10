@@ -35,3 +35,4 @@ print(sample)
 | 1 	| 0 	| 1     	| 1        	|
 | 1 	| 1 	| 1     	| 1        	|
 
+Colum *A* and Colum *A(A + B)* are equal
