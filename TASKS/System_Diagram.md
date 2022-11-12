@@ -1,9 +1,10 @@
 
-# Task 2: System Diagram
+# Task 2: System Diagram - Part A
 ![Screen Shot 2022-11-09 at 14 29 56](https://user-images.githubusercontent.com/111819437/200759418-37b7f9b5-03aa-4d2c-9519-d639d2666938.png)
 
 ## Materials
 
+1 arduino UNO,3 LEDs,1 USB,3 resistors,8 jumpers and 1 Breadboard
 
 ## System
 
@@ -44,3 +45,10 @@ while True:
 ## Evidence
 
 ### Reflection
+
+# Task 2: System Diagram - Part B
+
+![Screen Shot 2022-11-12 at 16 19 50](https://user-images.githubusercontent.com/111819437/201462529-b5bfac82-be7b-40c7-9aeb-8da239116a61.png)
+
+
+
