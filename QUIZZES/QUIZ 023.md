@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 
 def produce(n=int, m=int, s=int):
     print(f"|{'x'.center(10)}|{'y(x)'.center(10)}|")
-    x_out = []  # Create empty str
+    x_out = []  # Create empty list
     y_out = []
     for _ in range(n):
         x = random.randint(0,100)
