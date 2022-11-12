@@ -31,8 +31,6 @@ plt.show()
 
 ![Screen Shot 2022-11-12 at 17 35 39](https://user-images.githubusercontent.com/111819437/201466142-25c8c4ed-035c-40ae-b238-e267c67ce95f.png)
 
-### Flowdiagram
-
 ## Circuit for
 not(bit0 bit1 +not(bit0 +bit1)
 
