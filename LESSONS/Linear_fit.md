@@ -32,3 +32,8 @@ for i in [1,6]:
 plt.plot(model_x, model_y, color='b', marker='.')  # Drawn the line in the graph in color blue
 plt.show()  # Show graph
 ```
+
+## Graph
+
+![Screen Shot 2022-11-12 at 16 10 38](https://user-images.githubusercontent.com/111819437/201462205-a2236e3f-bfb5-42ce-933e-6c71df29f53e.png)
+
