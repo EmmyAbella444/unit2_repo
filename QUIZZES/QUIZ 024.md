@@ -14,7 +14,7 @@ for _ in range(100):
         y = 2*(st+5)**2  # Equation
         y_out.append(y)  # add values of y to the list y_out
         y_str = f"{y:.2f}"  # Round the value to two decimal numbers
-        x_str = f"{y:.2f}"  # Round the value to two decimal numbers
+        x_str = f"{st:.2f}"  # Round the value to two decimal numbers
         print(f"|{(x_str).center(10)}|{str(y_str).center(10)}|")  # Print the table
 
 
@@ -26,10 +26,12 @@ plt.title("Parabola")  # Graph Title
 plt.xlabel("x")  # Print "x" in the  x line
 plt.ylabel("$y=2*(x+5)**2$")  # Print the equation in the y line
 plt.show()
+
 ```
 ### Evidence
 
-![Screen Shot 2022-11-12 at 17 35 39](https://user-images.githubusercontent.com/111819437/201466142-25c8c4ed-035c-40ae-b238-e267c67ce95f.png)
+![Screen Shot 2022-11-13 at 19 23 58](https://user-images.githubusercontent.com/111819437/201517001-fbf528bf-a08c-4629-8760-f98d023217f9.png)
+
 
 ## Circuit for
 not(bit0 bit1 +not(bit0 +bit1)
