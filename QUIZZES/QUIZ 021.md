@@ -5,7 +5,8 @@
 
 ## Code
 ```.py
-def get_Truth():
+from Library import colors_purple
+def get_Truth(table=""):
     A = True
     B = True
     C = True
@@ -18,12 +19,15 @@ def get_Truth():
         if i % 4 == 0:  # Change A by multiples of 4
             A = not A
         D = bool((A and B) or (not B) or (not (C and B)))
-        print(f"| {int(A)} | {int(B)} | {int(C)} | {' '*8}{int(D)}{' '*8}|")
+        table += colors_purple(f"| {int(A)} | {int(B)} | {int(C)} | {' '*8}{int(D)}{' '*8}|\n")
+
+    return table
 
 print(get_Truth())
 ```
 ## Evidence
-![Screen Shot 2022-11-04 at 21 59 25](https://user-images.githubusercontent.com/111819437/199978705-ff4866f9-5a29-419d-8f05-28f24b22f553.png)
+
+![Screen Shot 2022-11-15 at 8 32 38](https://user-images.githubusercontent.com/111819437/201789737-f8ed286c-f707-4810-8a5e-a03b6edd2cdb.png)
 
 
 ## Flowchart
