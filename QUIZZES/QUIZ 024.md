@@ -1,5 +1,7 @@
 # QUIZ 024
 
+![Screen Shot 2022-11-15 at 13 30 22](https://user-images.githubusercontent.com/111819437/201826647-e39e4ab4-e3ea-46ae-b77f-391dc655cb43.png)
+
 ### Code
 ```.py
 from matplotlib import pyplot as plt
