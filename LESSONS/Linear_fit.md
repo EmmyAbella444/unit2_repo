@@ -1,5 +1,5 @@
 # Lesson - Create a graph for two list
-## We received two lists of number and create a graph 
+## We received two lists of number, create a graph and made the Prediction for x=4.5 and x=7
 
 ```.py
 import matplotlib.pyplot as plt
