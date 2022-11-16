@@ -34,6 +34,15 @@ plt.show()
 
 ![Screen Shot 2022-11-13 at 19 23 58](https://user-images.githubusercontent.com/111819437/201517001-fbf528bf-a08c-4629-8760-f98d023217f9.png)
 
+![Screen Shot 2022-11-16 at 19 39 28](https://user-images.githubusercontent.com/111819437/202158869-8f741561-c00d-49ac-ad35-dec5084e2f14.png)
+
+![Screen Shot 2022-11-16 at 19 39 38](https://user-images.githubusercontent.com/111819437/202158892-262fee66-6418-458c-8368-5c07566ca8a7.png)
+
+![Screen Shot 2022-11-16 at 19 42 09](https://user-images.githubusercontent.com/111819437/202159392-d224d3e3-5e38-4b17-add6-8cb53379e94c.png)
+
+
+
+
 
 ## Circuit for
 not(bit0 bit1 +not(bit0 +bit1)
