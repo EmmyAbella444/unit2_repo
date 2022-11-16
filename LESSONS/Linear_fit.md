@@ -17,23 +17,36 @@ plt.xlabel("X")  # Print "X" in the X label
 plt.ylabel("Y=2.78x+-1.2")  # Print the equation in the y label
 
 
-
 m, b = np.polyfit(x, y, 1)   # Discovers values of M and B in the equation and print
 print(f"The module for the data is y={(round(m,2))}x+{(round(b,2))}")
 
 model_x = []   # Create an empty list
 model_y = []  # Create an empty list
-for i in [1,6]:
+for i in [1,8]:
     model_x.append(i)  # Add the values of X in the empty list
-    y = m*i+b   # Equation 
+    y = m*i+b   # Equation
     model_y.append(y)   # Add the values of y in the empty list
 
 
 plt.plot(model_x, model_y, color='b', marker='.')  # Drawn the line in the graph in color blue
+
+
+# Prediction for x=7 (Extrapolation)
+y_x_7 = m * 7 + b
+print(f"The prediction for x=7 is y = {y_x_7:.3f}")
+# Prediction for x=4.5 (Extrapolation)
+y_x_4_5 = m * 4.5 + b
+print(f"The prediction for x=7 is y = {y_x_4_5:.3f}")
+
+plt.plot([7],[y_x_7], "ws")  # Point in the graph for x=7
+plt.text(7,17,f"y(7) = {y_x_7:.3}")   # Subtitle for the point x=7
+plt.plot([4.5],[y_x_4_5], "ws")   # Point in the graph for x=4.5
+plt.text(4.5,10.5,f"y(4.5) = {y_x_4_5:.3}")  # Subtitle for the point x=4.5
 plt.show()  # Show graph
+
 ```
 
 ## Graph
 
-![Screen Shot 2022-11-12 at 16 10 38](https://user-images.githubusercontent.com/111819437/201462205-a2236e3f-bfb5-42ce-933e-6c71df29f53e.png)
+![Screen Shot 2022-11-16 at 14 57 13](https://user-images.githubusercontent.com/111819437/202095949-5591fde9-c411-4e6b-a860-0b2ab7b41ab0.png)
 
