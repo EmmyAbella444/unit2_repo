@@ -54,7 +54,6 @@ while True:
 
 1 arduino UNO,1 LED,1 USB,3 resistors,8 jumpers, 1 Breadboard and 2 Buttons
 
-
 ## System 
 ## Code
 ## Reflection
@@ -65,10 +64,6 @@ while True:
 
 
 ## Materials
-
-1 arduino UNO,1 LED,1 USB,3 resistors,8 jumpers, 1 Breadboard and 2 Buttons
-
-
 ## System 
 ## Code
 ## Reflection
@@ -79,10 +74,6 @@ while True:
 
 
 ## Materials
-
-1 arduino UNO,1 LED,1 USB,3 resistors,8 jumpers, 1 Breadboard and 2 Buttons
-
-
 ## System 
 ## Code
 ## Reflection
