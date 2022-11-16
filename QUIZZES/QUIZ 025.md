@@ -1,4 +1,8 @@
 # QUIZ 025
+
+![Screen Shot 2022-11-16 at 18 45 58](https://user-images.githubusercontent.com/111819437/202146569-e3118522-fe03-4492-b168-d3b8f5517e08.png)
+
+
 ## Code
 
 ```.py
