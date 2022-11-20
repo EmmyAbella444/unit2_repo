@@ -66,6 +66,7 @@ while True:
 ## Materials
 1 arduino UNO, 1 usb cable and 1 sensor DHT11.
 ## System 
+![WhatsApp Image 2022-11-20 at 19 12 55](https://user-images.githubusercontent.com/111819437/202897017-bb397fcf-848c-4614-b0da-e1092b9e286b.jpeg)
 
 
 ## Code
