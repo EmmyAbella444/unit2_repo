@@ -26,11 +26,6 @@ print(get_Truth())
 ![Screen Shot 2022-11-15 at 8 30 04](https://user-images.githubusercontent.com/111819437/201789425-74a74647-150f-4d02-a754-54e360c5949d.png)
 
 
-## Flowchart
-
-
-
-
 ## Truth Table and Circuit for Light = S1S2 + (S2+S3(notS1))S1
 | S1 	| S2 	| S3 	| S1S2 	| notS1 	| S2+S3 	| S2+S3(notS1) 	| (S2+S3(notS1))S1 	| S1S2+(S2+S3(notS1))S1 	|
 |----	|----	|----	|------	|-------	|-------	|--------------	|------------------	|-----------------------	|
