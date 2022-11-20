@@ -35,3 +35,5 @@ plt.show()  # Show the graph
 ![Screen Shot 2022-11-15 at 9 42 08](https://user-images.githubusercontent.com/111819437/201798222-83af9508-d2d1-4301-8d3f-2dbb5e4f23ef.png)
 
 ## Convert to decimal FFA5
+
+![WhatsApp Image 2022-11-20 at 17 52 02](https://user-images.githubusercontent.com/111819437/202893591-f90b7d5e-8eb2-4007-8361-b82af8ec6414.jpeg)
