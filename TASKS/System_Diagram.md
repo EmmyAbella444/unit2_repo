@@ -7,7 +7,8 @@
 1 arduino UNO,3 LEDs,1 USB,3 resistors,8 jumpers and 1 Breadboard
 
 ## System
-![WhatsApp Image 2022-11-20 at 19 29 37](https://user-images.githubusercontent.com/111819437/202897199-34dd0d0a-dfae-44e4-8900-2c9e2c5787f1.jpeg)
+
+![WhatsApp Image 2022-11-20 at 19 30 51](https://user-images.githubusercontent.com/111819437/202897237-ed831b42-e2d3-42c4-9f7f-480c2b9e3215.jpeg)
 
 
 ## Code
