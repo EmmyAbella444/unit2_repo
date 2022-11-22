@@ -1,4 +1,6 @@
 # QUIZ 028
+![Screen Shot 2022-11-22 at 13 27 25](https://user-images.githubusercontent.com/111819437/203221455-9e08d23d-75c8-40a5-abe8-14dfbef7ae29.png)
+
 
 ## CODE
 ```.py
