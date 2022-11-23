@@ -31,3 +31,4 @@ plt.show()
 
 
 ## Convert red=10, green=255, blue=255 to hex color
+![WhatsApp Image 2022-11-23 at 13 36 03](https://user-images.githubusercontent.com/111819437/203470148-fae33b97-d572-41ce-8af8-a3e2e13840d8.jpeg)
