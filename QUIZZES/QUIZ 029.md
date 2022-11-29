@@ -1,8 +1,9 @@
 # QUIZ 029
+![Screen Shot 2022-11-29 at 13 42 42](https://user-images.githubusercontent.com/111819437/204440711-1d10bead-4d52-41a2-b74c-8837848c0b86.png)
+
 ## Code
 ```.py
-purple_bold = "\33[0;35m"
-end_code = "\033[00m"
+from Library import colors_purple
 def dictionary(dict,msg:str):
     for i in msg:  # Analise each letter of the msg
         if i in dict.keys():  # Check if the letter in the msg is in the key
@@ -18,9 +19,12 @@ msg2 = "Why did I chose CS?"
 case1 = dictionary(my_dict1,msg1)
 case2 = dictionary(my_dict2,msg2)
 
-print(f"{purple_bold}{case1}{end_code}")
-print(f"{purple_bold}{case2}{end_code}")
+print(colors_purple(case1))
+print(colors_purple(case2))
 ```
 
 ## Evidence
-![Screen Shot 2022-11-29 at 11 08 16](https://user-images.githubusercontent.com/111819437/204421480-ecdc68ad-bbcc-4b4c-a5e4-e6c3cb04b7a9.png)
+
+![Screen Shot 2022-11-29 at 13 45 50](https://user-images.githubusercontent.com/111819437/204441142-4f8662c1-820d-4e90-b477-b2a659f9203f.png)
+
+## How many different colors could you represent in a 6 bit computer?
