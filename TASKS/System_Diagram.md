@@ -8,7 +8,10 @@
 
 ## System
 
-![WhatsApp Image 2022-11-20 at 19 30 51](https://user-images.githubusercontent.com/111819437/202897237-ed831b42-e2d3-42c4-9f7f-480c2b9e3215.jpeg)
+
+![WhatsApp Image 2022-12-01 at 21 47 35 (1)](https://user-images.githubusercontent.com/111819437/205056836-00a28b1b-e555-4eb6-9254-327caf2b0dc2.jpeg)
+
+
 
 
 ## Code
@@ -17,34 +20,42 @@
 from pyfirmata import Arduino
 import time
 from Validate_input import validate_int_input
+from Library import colors_purple
 
 board = Arduino('/dev/cu.usbserial-1420')
 print("Communication Successfully started")
 
-A = True  # Starts A as True
-B = True  # Starts B as True
-C = True  # Starts C as True
+
 
 while True:
-    n = validate_int_input("Please enter the number that you want to see in the LEDs: ")  # Ask the user for a number and confirm if the user entered a number with the function validate input
+    n = validate_int_input("Please enter the number that you want to see in the LEDs: ") # Ask the user for a number and confirm if the user entered a number with the function validate input
 
+    A = True  # Starts A as True
+    B = True  # Starts B as True
+    C = True  # Starts C as True
     for i in range(8):
-        if i % 2 == 0:  # Change B by multiples of 2
-            B = not B
-        if i % 4 == 0:
-            A = not A  # Change A by multiples of 4
-        C = not C  # Change C one time per loop
+            if i % 2 == 0:  # Change B by multiples of 2
+                B = not B
+            if i % 4 == 0:
+                A = not A  # Change A by multiples of 4
+            C = not C  # Change C one time per loop
 
-        if i == n:
-            board.digital[12].write(int(A))       # Variable A attributed to port 12 in the arduino and send the value of A
-            board.digital[9].write(int(B))        # Variable B attributed to port 9 in the arduino and send the value of B
-            board.digital[5].write(int(C))        # Variable C attributed to port 5 in the arduino and send the value of C
-            print(f"{i}={int(A)}{int(B)}{int(C)}")  # Print the number in base 2
-            time.sleep(1)  # Pause one second to run the loop again
+            if i == n:
+                board.digital[12].write(int(A))       # Variable A attributed to port 12 in the arduino and send the value of A
+                board.digital[9].write(int(B))        # Variable B attributed to port 9 in the arduino and send the value of B
+                board.digital[5].write(int(C))        # Variable C attributed to port 5 in the arduino and send the value of C
+                print(colors_purple(f"{i}={int(A)}{int(B)}{int(C)}"))  # Print the number in base 2
+                time.sleep(1)  # Pause one second to run the loop again
+
 
 ```
 
 ## Evidence
+![Screen Shot 2022-12-01 at 21 45 01](https://user-images.githubusercontent.com/111819437/205056223-0f37c9a7-f503-4a96-b51e-6e32ccfd4d2a.png)
+
+
+https://user-images.githubusercontent.com/111819437/205056932-096da479-c65c-44ff-932b-af3f35a34a1f.mp4
+
 
 ## Reflection
 
