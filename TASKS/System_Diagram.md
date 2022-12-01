@@ -134,14 +134,6 @@ https://user-images.githubusercontent.com/111819437/202896978-17d54fdf-ce6b-4fb7
 
 ## Reflection
 
-# Task 2: System Diagram - Part D
 
-![Screen Shot 2022-11-16 at 19 31 43](https://user-images.githubusercontent.com/111819437/202157174-45c5b074-7e6f-44d0-83aa-f06feeb7be12.png)
-
-
-## Materials
-## System 
-## Code
-## Reflection
 
 
