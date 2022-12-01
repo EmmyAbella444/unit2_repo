@@ -8,11 +8,7 @@
 
 ## System
 
-
 ![WhatsApp Image 2022-12-01 at 21 47 35 (1)](https://user-images.githubusercontent.com/111819437/205056836-00a28b1b-e555-4eb6-9254-327caf2b0dc2.jpeg)
-
-
-
 
 ## Code
 
@@ -53,11 +49,8 @@ while True:
 ## Evidence
 ![Screen Shot 2022-12-01 at 21 45 01](https://user-images.githubusercontent.com/111819437/205056223-0f37c9a7-f503-4a96-b51e-6e32ccfd4d2a.png)
 
-
 https://user-images.githubusercontent.com/111819437/205056932-096da479-c65c-44ff-932b-af3f35a34a1f.mp4
 
-
-## Reflection
 
 # Task 2: System Diagram - Part B
 
