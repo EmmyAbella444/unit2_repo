@@ -1,7 +1,7 @@
 # QUIZ 030
 ![Screen Shot 2022-12-08 at 9 27 31](https://user-images.githubusercontent.com/111819437/206326537-a8d5e814-09d8-48c5-9323-b521524c0ced.png)
 
-## CODE
+## CODE SL
 ```.py
 from matplotlib import pyplot as plt
 
@@ -36,8 +36,11 @@ plt.title("Smoothed version")
 plt.show()
 ```
 
-## EVIDENCE
+## EVIDENCE SL
 ![Screen Shot 2022-12-08 at 9 53 05](https://user-images.githubusercontent.com/111819437/206329604-0c9c30a6-6bca-4296-8e34-32275ea98af8.png)
 
+## CODE HL
+
+## EVIDENCE HL
 
 ## When was the internet first created? 
