@@ -72,3 +72,6 @@ plt.show()
 ## What are the three main operators used in boolean logic?
 The three basic boolean operators are: AND, OR, and NOT.
 ![maxresdefault](https://user-images.githubusercontent.com/111819437/209516069-0b76af6e-61e8-4e94-a658-fee4d2e27a48.jpeg)
+
+
+“Libguides: Database Search Tips: Boolean Operators.” Boolean Operators - Database Search Tips - LibGuides at MIT Libraries, https://libguides.mit.edu/c.php?g=175963&amp;p=1158594#:~:text=They%20connect%20your%20search%20words,AND%2C%20OR%2C%20and%20NOT. 
