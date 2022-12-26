@@ -28,3 +28,12 @@ print(colors_purple(case2))
 ![Screen Shot 2022-11-29 at 13 45 50](https://user-images.githubusercontent.com/111819437/204441142-4f8662c1-820d-4e90-b477-b2a659f9203f.png)
 
 ## How many different colors could you represent in a 6 bit computer?
+
+To calculate how many different colors can be captured or displayed, simply raise the number 2 to the power of the number of bits used to record or display the image.So:
+2^6 = 64
+
+64 colors.
+
+
+Bibliography:
+The Math of Color Dept, https://www.scss.tcd.ie/Cathal.OConnor/website-digital-video/4%20The%20Arithmetic%20of%20Color%20Depth.html. 
